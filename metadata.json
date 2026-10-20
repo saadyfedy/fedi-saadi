@@ -1,0 +1,6 @@
+{
+  "name": "Grintta - 7seb 3dad el Ta2lifi",
+  "description": "Calculateur de devoir de synthèse et simulateur de moyenne tunisienne (20% contrôle / 80% synthèse). 7seb 9adeh lezmik tjib b ro7 el Grintta!",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
